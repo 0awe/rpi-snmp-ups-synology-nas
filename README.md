@@ -21,7 +21,7 @@ sudo chmod +x /etc/snmp/apcupsd.sh
 ```
 # Restart snmpd
 ```
-sudo service snmdp restart
+sudo service snmpd restart
 ```
 # Test snmpd on RPi
 ```
